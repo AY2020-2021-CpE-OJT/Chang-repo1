@@ -9,7 +9,6 @@ yahaaaaaaaaaaaaaaaaaaaaaaa
 ### Pull testing
 yeheeeeeeeeeeeeeeeeeeeeeey
 
-<<<<<<< HEAD
 #### Heeeeeeeeey
 skrrrrrrrrrrrrrrrrrrrrrrt
 
